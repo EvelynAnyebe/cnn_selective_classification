@@ -1,1 +1,1 @@
-# ma_project
+# Selective skin cancer classification project
